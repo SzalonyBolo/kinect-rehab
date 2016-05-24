@@ -1,0 +1,83 @@
+D:\kinectrehab\kinectRehab\bin\x64\Debug\kinectRehab.exe.config
+D:\kinectrehab\kinectRehab\obj\x64\Debug\kinectRehab.exe
+D:\kinectrehab\kinectRehab\obj\x64\Debug\kinectRehab.pdb
+D:\kinectrehab\kinectRehab\bin\x64\Debug\db\GamesDatabase.mdf
+D:\kinectrehab\kinectRehab\bin\x64\Debug\db\GamesDatabase_log.ldf
+D:\kinectrehab\kinectRehab\bin\x64\Debug\kinectRehab.exe
+D:\kinectrehab\kinectRehab\bin\x64\Debug\kinectRehab.pdb
+D:\kinectrehab\kinectRehab\bin\x64\Debug\Microsoft.Kinect.dll
+D:\kinectrehab\kinectRehab\bin\x64\Debug\Microsoft.Kinect.Wpf.Controls.dll
+D:\kinectrehab\kinectRehab\bin\x64\Debug\Microsoft.Kinect.xml
+D:\kinectrehab\kinectRehab\bin\x64\Debug\Microsoft.Kinect.Wpf.Controls.xml
+D:\kinectrehab\kinectRehab\obj\x64\Debug\kinectRehab.csprojResolveAssemblyReference.cache
+D:\kinectrehab\kinectRehab\obj\x64\Debug\HandPointers\HandPointerStyles.baml
+D:\kinectrehab\kinectRehab\obj\x64\Debug\GameWindow.g.cs
+D:\kinectrehab\kinectRehab\obj\x64\Debug\MainWindow.g.cs
+D:\kinectrehab\kinectRehab\obj\x64\Debug\App.g.cs
+D:\kinectrehab\kinectRehab\obj\x64\Debug\kinectRehab_Content.g.cs
+D:\kinectrehab\kinectRehab\obj\x64\Debug\kinectRehab_MarkupCompile.cache
+D:\kinectrehab\kinectRehab\obj\x64\Debug\kinectRehab_MarkupCompile.lref
+D:\kinectrehab\kinectRehab\obj\x64\Debug\App.baml
+D:\kinectrehab\kinectRehab\obj\x64\Debug\GameWindow.baml
+D:\kinectrehab\kinectRehab\obj\x64\Debug\MainWindow.baml
+D:\kinectrehab\kinectRehab\obj\x64\Debug\kinectRehab.g.resources
+D:\kinectrehab\kinectRehab\obj\x64\Debug\kinectRehab.Properties.Resources.resources
+D:\kinectrehab\kinectRehab\obj\x64\Debug\kinectRehab.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\kinectRehab\kinectRehab\bin\x64\Debug\db\GamesDatabase.mdf
+C:\Users\admin\Documents\Visual Studio 2015\Projects\kinectRehab\kinectRehab\bin\x64\Debug\db\GamesDatabase_log.ldf
+C:\Users\admin\Documents\Visual Studio 2015\Projects\kinectRehab\kinectRehab\bin\x64\Debug\kinectRehab.exe.config
+C:\Users\admin\Documents\Visual Studio 2015\Projects\kinectRehab\kinectRehab\bin\x64\Debug\kinectRehab.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\kinectRehab\kinectRehab\bin\x64\Debug\kinectRehab.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\kinectRehab\kinectRehab\bin\x64\Debug\Microsoft.Kinect.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\kinectRehab\kinectRehab\bin\x64\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\kinectRehab\kinectRehab\bin\x64\Debug\Microsoft.Kinect.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\kinectRehab\kinectRehab\bin\x64\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\kinectRehab\kinectRehab\obj\x64\Debug\HandPointers\HandPointerStyles.baml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\kinectRehab\kinectRehab\obj\x64\Debug\FolderChoose.g.cs
+C:\Users\admin\Documents\Visual Studio 2015\Projects\kinectRehab\kinectRehab\obj\x64\Debug\game\GameWindow.g.cs
+C:\Users\admin\Documents\Visual Studio 2015\Projects\kinectRehab\kinectRehab\obj\x64\Debug\LevelCreator.g.cs
+C:\Users\admin\Documents\Visual Studio 2015\Projects\kinectRehab\kinectRehab\obj\x64\Debug\MainWindow.g.cs
+C:\Users\admin\Documents\Visual Studio 2015\Projects\kinectRehab\kinectRehab\obj\x64\Debug\App.g.cs
+C:\Users\admin\Documents\Visual Studio 2015\Projects\kinectRehab\kinectRehab\obj\x64\Debug\kinectRehab_Content.g.cs
+C:\Users\admin\Documents\Visual Studio 2015\Projects\kinectRehab\kinectRehab\obj\x64\Debug\kinectRehab_MarkupCompile.cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\kinectRehab\kinectRehab\obj\x64\Debug\kinectRehab_MarkupCompile.lref
+C:\Users\admin\Documents\Visual Studio 2015\Projects\kinectRehab\kinectRehab\obj\x64\Debug\App.baml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\kinectRehab\kinectRehab\obj\x64\Debug\FolderChoose.baml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\kinectRehab\kinectRehab\obj\x64\Debug\game\GameWindow.baml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\kinectRehab\kinectRehab\obj\x64\Debug\LevelCreator.baml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\kinectRehab\kinectRehab\obj\x64\Debug\MainWindow.baml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\kinectRehab\kinectRehab\obj\x64\Debug\kinectRehab.g.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\kinectRehab\kinectRehab\obj\x64\Debug\kinectRehab.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\kinectRehab\kinectRehab\obj\x64\Debug\kinectRehab.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\kinectRehab\kinectRehab\obj\x64\Debug\kinectRehab.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\kinectRehab\kinectRehab\obj\x64\Debug\kinectRehab.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\kinectRehab\kinectRehab\obj\x64\Debug\kinectRehab.csprojResolveAssemblyReference.cache
+E:\studia\inżynierka\kinectRehab\kinectRehab\bin\x64\Debug\kinectRehab.exe.config
+E:\studia\inżynierka\kinectRehab\kinectRehab\obj\x64\Debug\kinectRehab.exe
+E:\studia\inżynierka\kinectRehab\kinectRehab\obj\x64\Debug\kinectRehab.pdb
+E:\studia\inżynierka\kinectRehab\kinectRehab\bin\x64\Debug\db\GamesDatabase.mdf
+E:\studia\inżynierka\kinectRehab\kinectRehab\bin\x64\Debug\db\GamesDatabase_log.ldf
+E:\studia\inżynierka\kinectRehab\kinectRehab\bin\x64\Debug\kinectRehab.exe
+E:\studia\inżynierka\kinectRehab\kinectRehab\bin\x64\Debug\kinectRehab.pdb
+E:\studia\inżynierka\kinectRehab\kinectRehab\bin\x64\Debug\Microsoft.Kinect.dll
+E:\studia\inżynierka\kinectRehab\kinectRehab\bin\x64\Debug\Microsoft.Kinect.Wpf.Controls.dll
+E:\studia\inżynierka\kinectRehab\kinectRehab\bin\x64\Debug\Microsoft.Kinect.xml
+E:\studia\inżynierka\kinectRehab\kinectRehab\bin\x64\Debug\Microsoft.Kinect.Wpf.Controls.xml
+E:\studia\inżynierka\kinectRehab\kinectRehab\obj\x64\Debug\kinectRehab.csprojResolveAssemblyReference.cache
+E:\studia\inżynierka\kinectRehab\kinectRehab\obj\x64\Debug\HandPointers\HandPointerStyles.baml
+E:\studia\inżynierka\kinectRehab\kinectRehab\obj\x64\Debug\FolderChoose.g.cs
+E:\studia\inżynierka\kinectRehab\kinectRehab\obj\x64\Debug\game\GameWindow.g.cs
+E:\studia\inżynierka\kinectRehab\kinectRehab\obj\x64\Debug\LevelCreator.g.cs
+E:\studia\inżynierka\kinectRehab\kinectRehab\obj\x64\Debug\MainWindow.g.cs
+E:\studia\inżynierka\kinectRehab\kinectRehab\obj\x64\Debug\App.g.cs
+E:\studia\inżynierka\kinectRehab\kinectRehab\obj\x64\Debug\kinectRehab_Content.g.cs
+E:\studia\inżynierka\kinectRehab\kinectRehab\obj\x64\Debug\kinectRehab_MarkupCompile.cache
+E:\studia\inżynierka\kinectRehab\kinectRehab\obj\x64\Debug\kinectRehab_MarkupCompile.lref
+E:\studia\inżynierka\kinectRehab\kinectRehab\obj\x64\Debug\App.baml
+E:\studia\inżynierka\kinectRehab\kinectRehab\obj\x64\Debug\FolderChoose.baml
+E:\studia\inżynierka\kinectRehab\kinectRehab\obj\x64\Debug\game\GameWindow.baml
+E:\studia\inżynierka\kinectRehab\kinectRehab\obj\x64\Debug\LevelCreator.baml
+E:\studia\inżynierka\kinectRehab\kinectRehab\obj\x64\Debug\MainWindow.baml
+E:\studia\inżynierka\kinectRehab\kinectRehab\obj\x64\Debug\kinectRehab.g.resources
+E:\studia\inżynierka\kinectRehab\kinectRehab\obj\x64\Debug\kinectRehab.Properties.Resources.resources
+E:\studia\inżynierka\kinectRehab\kinectRehab\obj\x64\Debug\kinectRehab.csproj.GenerateResource.Cache

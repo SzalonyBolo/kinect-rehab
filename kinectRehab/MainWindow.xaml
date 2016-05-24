@@ -1,0 +1,70 @@
+﻿<Window x:Class="kinectRehab.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+		xmlns:k="http://schemas.microsoft.com/kinect/2014"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:kinectRehab"
+		Name="KinectRehab"
+		Title="Kinect Rehab"
+        mc:Ignorable="d"
+		WindowState="Maximized"
+        WindowStyle="None">
+
+    <k:KinectRegion x:Name="kinectRegion">
+        <Grid>
+            <Grid.Background>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                    <GradientStop Color="#D2D0D9" Offset="0"/>
+                    <GradientStop Color="#7DAA5D" Offset="0.7"/>
+                </LinearGradientBrush>
+            </Grid.Background>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="100"/>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="150" />
+            </Grid.RowDefinitions>
+
+            <Grid Grid.Row="0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto" />
+                </Grid.ColumnDefinitions>
+
+            </Grid>
+
+            <ContentControl Grid.Row="0" x:Name="lvlCrtCont" >
+                <Button x:Name="btnLevelCreator" Content="Kreator Poziomów" Click="btnLevelCreator_Click" Width="250" HorizontalAlignment="Right"/>
+            </ContentControl>
+
+            <ContentControl Grid.Row="1" x:Name="navigationRegion">
+                <Grid x:Name="kinectRegionGrid">
+                    <ScrollViewer Grid.Row="0" Name="scrollViewer" 
+                                  HorizontalScrollBarVisibility="Auto"
+                                  VerticalScrollBarVisibility="Disabled" 
+                                  k:KinectRegion.IsScrollInertiaEnabled="true" >
+                    </ScrollViewer>
+                    <Label x:Name="lblChooseGame" Content="Wybierz Grę!" FontSize="30.667" HorizontalAlignment="Center"/>
+                    <Button x:Name="btnStart" Content="Start!" Visibility="Hidden" HorizontalAlignment="Center"  VerticalAlignment="Bottom" Margin="0,0,0,0" Height="120" Width="200" Click="btnStart_Click"/>
+                    
+                </Grid>
+            </ContentControl>
+
+            <Grid Grid.Row="2">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="162*" />
+                    <ColumnDefinition Width="91*"/>
+                    <ColumnDefinition Width="254*" />
+                    <ColumnDefinition Width="253*" />
+                </Grid.ColumnDefinitions>
+                <TextBox x:Name="txtPlayer" Grid.ColumnSpan="1" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="Imie" VerticalAlignment="Top" Width="120" Visibility="Hidden" Margin="26,0,0,0"/>
+                <TextBox x:Name="txtAge" Text="Wiek"  Height="28" Width="60" Grid.Column="1" Visibility="Hidden" HorizontalAlignment="Left"/>
+                <Label x:Name="lblPlayer" Content="Gracz" HorizontalAlignment="Left" VerticalAlignment="Top" Visibility="Hidden" Margin="58,33,0,0"/>
+                <Slider x:Name="sldDifficulty" Grid.Column="2" HorizontalAlignment="Right" VerticalAlignment="Top" Visibility="Hidden" Width="158" Margin="40,10,0,0" IsSnapToTickEnabled="True"/>
+                <Label x:Name="lblDifficulty" Content="Poziom Trudności" Grid.Column="2" HorizontalAlignment="Left" Visibility="Hidden"/>
+                <Button x:Name="btnExit" Content="Wyjście" Grid.Column="3" HorizontalAlignment="Center" VerticalAlignment="Center" Height="150" Width="150" Click="btnExit_Click"></Button>
+            </Grid>
+
+
+        </Grid>
+    </k:KinectRegion>
+</Window>
